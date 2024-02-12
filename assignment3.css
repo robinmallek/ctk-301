@@ -1,0 +1,35 @@
+a:link {
+    color:red;
+}
+  
+  a:visited {
+    color:green;
+  }
+  
+  a:hover {
+    color:yellow;
+  }        
+
+  h1{
+    color: darkorchid;
+  }
+  h2{
+    color:darkblue;
+  }
+  h3{
+    background-color: darkseagreen;
+    color:fuchsia;
+  }
+ .colors1{
+    background-color: bisque;
+    color: rgb(14, 14, 230);
+ }
+ #colors2{
+    color: darkmagenta;
+ }
+ #diver {
+    background-color: coral;
+ }
+.spanned {
+    color:indigo;
+}
