@@ -1,0 +1,34 @@
+h1{
+    color: white;
+}
+h2{
+    color: blue;
+}
+h3{
+    background-color: yellow;
+}
+h4{
+    background-color: darkgreen;
+    color:yellow ;
+}
+h5{
+    color:red;
+}
+#dived{
+background-color: cadetblue;
+}
+#dived2{
+    background-color: yellow;
+}
+.spanner{
+    color: chocolate;
+}
+.spanner2{
+    background-color:darkblue;
+}
+.colors3{
+    color: red;
+}
+.colors4{
+    background-color: aquamarine;
+}
