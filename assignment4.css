@@ -1,0 +1,59 @@
+a:link {
+    color:red;
+}
+  
+  a:visited {
+    color:green;
+  }
+  
+  a:hover {
+    color:yellow;
+  }        
+
+  h1{
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: normal;
+  }
+  h2{
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: normal;
+  }
+  h3{
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: normal;
+  }
+ .colors1{
+    background-color: bisque;
+    color: rgb(14, 14, 230);
+    text-align: justify;
+ }
+ .colors2{
+    color: darkmagenta;
+ }
+ #diver {
+    background-color: coral;
+ }
+.spanned {
+    color:indigo;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(sleepy.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.textcenter{
+    color: darkmagenta;
+    text-align: center;
+}
+.imageboxes{
+    border: 20px solid black;
+    background-color: yellow;
+    padding: 15px;
+}
